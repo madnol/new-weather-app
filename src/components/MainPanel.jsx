@@ -74,7 +74,7 @@ const StyledMainPanel = styled.div`
 
 const City = styled.div`
   color: #01175f;
-  position: absolute;
+
   display: inline-block;
   filter: opacity(1);
   line-height: 2.5em;
