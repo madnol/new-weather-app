@@ -40,6 +40,7 @@ const Tempeture = () => {
 const SideElement = styled.div`
   position: absolute;
   height: 280px;
+  z-index: 2;
   color: white;
   font-size: 1.5em;
   top: 5em;
